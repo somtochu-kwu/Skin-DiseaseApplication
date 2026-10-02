@@ -23,7 +23,7 @@ device = torch.device(
 # Example:
 # HF_REPO_ID = "john123/Skin-Disease-Diagnosis-Model"
 #
-HF_REPO_ID = "somtochukwu901/Skin-Disease-Diagnosis-Model"
+HF_REPO_ID = "somtochukwu901/Skin-Disease-Application"
 
 HF_FILENAME = "model.pt"
 
