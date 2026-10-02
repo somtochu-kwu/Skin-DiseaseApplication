@@ -25,7 +25,7 @@ device = torch.device(
 #
 HF_REPO_ID = "somtochukwu901/Skin-Disease-Application"
 
-HF_FILENAME = "model.pt"
+HF_FILENAME = "model.pt.zip"
 
 
 # IMPORTANT:
